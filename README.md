@@ -1,1 +1,4 @@
-# BusinessTravelPrediction
+# 商旅出行预测
+项目目标：预测用户此航线出行是否为商旅出差
+代码内容：数据处理、特征工程和建立线性回归模型、XGBoost模型，模型评估中F1_score=0.95
+SQL内容：编写HiveSQL从数据库中获取数据
